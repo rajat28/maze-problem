@@ -1,5 +1,4 @@
-#Project by Rajat Sharma and Don Joseph
-#Date : 22-04-2018
+#Project by Rajat Sharma
 
 """
 Running the Code
